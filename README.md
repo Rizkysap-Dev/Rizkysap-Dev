@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Rizky Saputra</h1>
 
-<div align="justify">
+<div align="justify-center">
 <a href="https://www.instagram.com/rizkysap_/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
- <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@Sap-dev">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.x.com/SapDevv/">
 <img src="https://img.shields.io/badge/X-131010.svg?style=for-the-badge&logo=X&logoColor=white&width=600">
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rizkysap/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://tiktok.com/@sap.dev">
 <img src="https://img.shields.io/badge/TikTok-131010.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
