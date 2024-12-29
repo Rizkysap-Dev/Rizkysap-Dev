@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://www.x.com/SapDevv/">
-<img src="https://img.shields.io/badge/X-131010.svg?style=for-the-badge&logo=X&logoColor=white">
+<img src="https://img.shields.io/badge/X-131010.svg?style=for-the-badge&logo=X&logoColor=white&width=200">
 </a>
 
 <a href="https://www.linkedin.com/in/rizkysap/">
