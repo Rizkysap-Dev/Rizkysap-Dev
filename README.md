@@ -84,10 +84,10 @@ welcome to my GitHub Page. I am Rizky Saputra, I learn new things about programm
         <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="typescript" />
       <br>Typescript
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
-    </td>
+    </td> -->
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
@@ -112,10 +112,10 @@ welcome to my GitHub Page. I am Rizky Saputra, I learn new things about programm
         <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="sequelize" />
       <br>Sequelize
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="redux" />
         <br>Redux
-    </td>
+    </td> -->
   </tr>
 </table>
 
