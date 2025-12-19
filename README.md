@@ -22,11 +22,6 @@
 </a>
 </div>
 
-<p></p>
-<p align="justify">
-welcome to my GitHub Page. I am Rizky Saputra, I learn new things about programming, I have been programming for almost more than 2 years and worked with many languages and technologies
-</p>
-
 
 ## My favorite tools and technologies ⚙️
 
