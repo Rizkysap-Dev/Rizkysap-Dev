@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rizky Saputra</h1>
-
 <div align="justify-center">
 <a href="https://www.instagram.com/rizkysap_/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
