@@ -1,130 +1,76 @@
-<div align="justify-center">
-<a href="https://www.instagram.com/rizkysap_/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@Sap-dev">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.x.com/SapDevv/">
-<img src="https://img.shields.io/badge/X-131010.svg?style=for-the-badge&logo=X&logoColor=white&width=600">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rizkysap/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tiktok.com/@sap.dev">
-<img src="https://img.shields.io/badge/TikTok-131010.svg?style=for-the-badge&logo=TikTok&logoColor=white">
-</a>
+<div align="center">
+  <h1>Hi, I'm Rizky Saputra 👋</h1>
+  <p><strong>Full Stack Engineer & AI Systems Developer</strong></p>
+  <p>Building deterministic testing frameworks, autonomous AI agent tooling, and high-performance web systems.</p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/rizkysap/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.x.com/SapDevv/"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://www.youtube.com/@Sap-dev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://www.instagram.com/rizkysap_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://tiktok.com/@sap.dev"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  </p>
 </div>
 
+---
 
-## My favorite tools and technologies ⚙️
-
-> Tools and technologies that I have worked with and am interested in
+### 🛡️ Featured Open Source Project
 
 <table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="Javascript" />
-      <br>Javascript
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Rizkysap-Dev/skillguard">SkillGuard</a></h3>
+      <p><strong>Deterministic, zero-LLM test runner and security harness for AI agent skills and MCP (Model Context Protocol) tools.</strong></p>
+      <p>
+        <a href="https://github.com/Rizkysap-Dev/skillguard/stargazers"><img src="https://img.shields.io/github/stars/Rizkysap-Dev/skillguard?style=social" alt="Stars" /></a>
+        <a href="https://github.com/Rizkysap-Dev/skillguard/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
+        <img src="https://img.shields.io/badge/tests-72%20passed-brightgreen.svg" alt="Tests" />
+        <img src="https://img.shields.io/badge/LLM%20Cost-%240.00-brightgreen.svg" alt="Cost" />
+      </p>
+      <ul>
+        <li>⚡ <strong>Zero Token Cost:</strong> Evaluate agent skills deterministically without burning LLM API quotas.</li>
+        <li>🔒 <strong>Safety Assurance:</strong> Prevent catastrophic agent actions and unauthorized tool executions.</li>
+        <li>📦 <strong>Quick Start:</strong> <code>npx skillguard test</code></li>
+      </ul>
+      <p>👉 <a href="https://github.com/Rizkysap-Dev/skillguard"><strong>Check out SkillGuard on GitHub & Star the repository ⭐</strong></a></p>
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
-      <br>GitHub
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
-      <br>MongoDb
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
-      <br>ReactJs
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next js" />
-      <br>NextJs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="typescript" />
-      <br>Typescript
-    </td>
-<!--     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td> -->
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>NodeJs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>Mysql
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="sequelize" />
-      <br>Sequelize
-    </td>
-<!--     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="redux" />
-        <br>Redux
-    </td> -->
   </tr>
 </table>
 
-## Github stats 📊
+---
 
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/Rizkysap-dev/github-readme-stats"><img alt="Rizkysap-dev Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Rizkysap-dev&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/Rizkysap-dev/github-readme-stats"><img alt="Rizkysap-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizkysap-dev&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
+### ⚙️ Technologies & Architecture
 
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Rizkysap-dev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /><br>Next.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /><br>Tailwind</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" /><br>Prisma</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+  </tr>
+</table>
 
-</details>
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img alt="Rizkysap-dev Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Rizkysap-dev&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9" height="170px"/>
+  <img alt="Rizkysap-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizkysap-dev&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=Jupyter%20Notebook" height="170px"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rizkysap-dev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+</p>
